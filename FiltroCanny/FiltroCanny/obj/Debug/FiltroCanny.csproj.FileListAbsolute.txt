@@ -1,0 +1,11 @@
+C:\Users\vicnz\OneDrive\Documentos\Code\Projects\FiltroCanny\FiltroCanny\FiltroCanny\bin\Debug\FiltroCanny.exe.config
+C:\Users\vicnz\OneDrive\Documentos\Code\Projects\FiltroCanny\FiltroCanny\FiltroCanny\bin\Debug\FiltroCanny.exe
+C:\Users\vicnz\OneDrive\Documentos\Code\Projects\FiltroCanny\FiltroCanny\FiltroCanny\bin\Debug\FiltroCanny.pdb
+C:\Users\vicnz\OneDrive\Documentos\Code\Projects\FiltroCanny\FiltroCanny\FiltroCanny\obj\Debug\FiltroCanny.csproj.AssemblyReference.cache
+C:\Users\vicnz\OneDrive\Documentos\Code\Projects\FiltroCanny\FiltroCanny\FiltroCanny\obj\Debug\FiltroCanny.csproj.SuggestedBindingRedirects.cache
+C:\Users\vicnz\OneDrive\Documentos\Code\Projects\FiltroCanny\FiltroCanny\FiltroCanny\obj\Debug\FiltroCanny.Form1.resources
+C:\Users\vicnz\OneDrive\Documentos\Code\Projects\FiltroCanny\FiltroCanny\FiltroCanny\obj\Debug\FiltroCanny.Properties.Resources.resources
+C:\Users\vicnz\OneDrive\Documentos\Code\Projects\FiltroCanny\FiltroCanny\FiltroCanny\obj\Debug\FiltroCanny.csproj.GenerateResource.cache
+C:\Users\vicnz\OneDrive\Documentos\Code\Projects\FiltroCanny\FiltroCanny\FiltroCanny\obj\Debug\FiltroCanny.csproj.CoreCompileInputs.cache
+C:\Users\vicnz\OneDrive\Documentos\Code\Projects\FiltroCanny\FiltroCanny\FiltroCanny\obj\Debug\FiltroCanny.exe
+C:\Users\vicnz\OneDrive\Documentos\Code\Projects\FiltroCanny\FiltroCanny\FiltroCanny\obj\Debug\FiltroCanny.pdb
